@@ -1,6 +1,6 @@
 {
   "recommendations": [
-    "ms-vscode.live-server",
+    "ritwickdey.LiveServer",
     "github.copilot",
     "github.copilot-chat"
   ]
