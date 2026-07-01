@@ -1,5 +1,6 @@
 {
   "liveServer.settings.defaultHtml": "index.html",
   "terminal.integrated.showOnStartup": "never",
-  "chat.agent.enabled": false
+  "chat.agent.enabled": false,
+  "liveServer.settings.port": 5501
 }
